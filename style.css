@@ -1,0 +1,51 @@
+html {
+  background-color: rgb(243, 212, 227);
+}
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 1000;
+  text-transform: uppercase;
+  position: relative;
+  left: 40%;
+  color: #2aa32a;
+}
+
+div {
+  position: absolute;
+  left: 25%;
+}
+
+table {
+  text-align: center;
+  border: 5px solid rgb(85, 180, 209) ;
+  table-layout: fixed;
+  width: 700px
+  
+}
+
+.header {
+  background-color:rgb(181, 230, 181);
+  color: rgb(12, 110, 12);
+  font-family: 'Oswald', sans-serif; ;
+  width: 200px;
+  height: 80px;
+}
+
+.done {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(2, 54, 2);
+  font-family: 'Kanit', sans-serif;
+  background-color:rgb(88, 204, 104);
+}
+
+.content {
+  font-family: 'Oswald', sans-serif;
+  background-color: aliceblue;
+}
+
+.date {
+  font-weight: bold;
+}
+
